@@ -25,8 +25,8 @@
 
 ## 🎓 Formació
 
-**[Títol del vostre cicle formatiu]**
-*Institut [Nom de l'Institut]*
+**CFGM SMX**
+*Institut Escola Pia Santa Anna*
 
 * Mòdul Professional: Administració de Sistemes Gestors de Bases de Dades.
 * Mòdul Professional: Desenvolupament Web en Entorn Servidor.
